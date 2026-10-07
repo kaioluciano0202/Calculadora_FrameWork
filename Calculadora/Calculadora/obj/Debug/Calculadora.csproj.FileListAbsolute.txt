@@ -8,3 +8,13 @@ C:\Users\DB\Desktop\Calculadora (FrameWork)\Calculadora\Calculadora\obj\Debug\Ca
 C:\Users\DB\Desktop\Calculadora (FrameWork)\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\DB\Desktop\Calculadora (FrameWork)\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\DB\Desktop\Calculadora (FrameWork)\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\DB\Desktop\Calculadora_FrameWork\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

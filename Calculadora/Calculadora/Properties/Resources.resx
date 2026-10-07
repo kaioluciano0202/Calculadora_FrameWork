@@ -118,6 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="potz_potatoz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\potz-potatoz.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_65964693_uma_desenho_animado_calculadora_personagem_acenando_e_sorridente_vetor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\65964693-uma-desenho-animado-calculadora-personagem-acenando-e-sorridente-vetor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
